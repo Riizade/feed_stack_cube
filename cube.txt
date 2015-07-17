@@ -1,210 +1,210 @@
 # cube
-1 Copper Myr
-1 Gold Myr
-1 Iron Myr
-1 Leaden Myr
-1 Go for the Throat
-1 Azorius Signet
-1 Silver Myr
-1 Diregraf Ghoul
-1 Pillar of Flame
-1 Ponder
-1 Rakdos Signet
-1 Gruul Signet
-1 Orzhov Signet
-1 Boros Signet
-1 Dimir Signet
-1 Journey to Nowhere
-1 Searing Spear
-1 Arbor Elf
-1 Electrickery
-1 Spawn of Rix Maadi
-1 Eyes in the Skies
-1 Sewer Shambler
-1 Sluiceway Scorpion
-1 Mizzium Skin
-1 Coursers' Accord
-1 Dead Reveler
-1 Downsize
-1 Inaction Injunction
-1 Splatter Thug
-1 Grim Roustabout
-1 Lyev Skyknight
-1 Dynacharge
-1 Drudge Beetle
-1 Sundering Growth
-1 Azorius Justiciar
-1 Gore-House Chainwalker
-1 Korozda Monitor
-1 Azorius Arrester
-1 Lightning Mauler
-1 Druid's Deliverance
-1 Terrus Wurm
-1 Trostani's Judgment
-1 Chemister's Trick
-1 Izzet Signet
-1 Force Spike
-1 Golgari Signet
-1 Syndicate Enforcer
-1 Wojek Halberdiers
-1 Warmind Infantry
-1 Slaughterhorn
-1 Adaptive Snapjaw
-1 Crocanura
-1 Basilica Screecher
-1 Paranoid Delusions
-1 Basilica Guards
-1 Kingpin's Pet
-1 Clinging Anemones
-1 Bomber Corps
-1 Nav Squad Commandos
-1 Syndic of Tithes
-1 Cloudfin Raptor
-1 Last Thoughts
-1 Scorchwalker
-1 Scab-Clan Charger
-1 Skinbrand Goblin
-1 Hands of Binding
-1 Shadow Slice
-1 Midnight Recovery
-1 Shambleshark
-1 Lyev Decree
-1 Boros Mastiff
-1 Rubblebelt Maaka
-1 Soulmender
-1 Lava Axe
-1 Young Pyromancer
-1 Doom Blade
-1 Goblin Shortcutter
-1 Divination
-1 Demolish
-1 Windstorm
-1 Time Ebb
-1 Pitchburn Devils
-1 Scroll Thief
-1 Shock
-1 Trollhide
-1 Altar's Reap
-1 Frost Breath
-1 Rootwalla
-1 Essence Scatter
-1 Blood Bairn
-1 Undead Minotaur
-1 Nightwing Shade
-1 Master of Diversion
-1 Vampire Warlord
-1 Mind Rot
-1 Fortify
-1 Seismic Stomp
-1 Negate
-1 Solemn Offering
-1 Advocate of the Beast
-1 Briarpack Alpha
-1 Hunt the Weak
-1 Nephalia Seakite
-1 Blightcaster
-1 Merfolk Spy
-1 Lay of the Land
-1 Glimpse the Future
-1 Brindle Boar
-1 Giant Spider
-1 Giant Growth
-1 Griffin Sentinel
-1 Vile Rebirth
-1 Congregate
-1 Pacifism
-1 Warden of Evos Isle
-1 Disperse
-1 Flames of the Firebrand
-1 Arcane Sanctum
-1 Azorius Guildgate
-1 Boros Guildgate
-1 Darksteel Ingot
-1 Dimir Guildgate
-1 Gruul Guildgate
-1 Izzet Guildgate
-1 Orzhov Guildgate
-1 Rakdos Guildgate
-1 Selesnya Guildgate
-1 Selesnya Signet
-1 Simic Guildgate
-1 Simic Signet
-1 Golgari Guildgate
-1 River Boa
-1 Path to Exile
-1 Brainstorm
-1 Centaur Courser
 1 Act on Impulse
+1 Adaptive Snapjaw
+1 Advocate of the Beast
 1 Aeronaut Tinkerer
+1 Alloy Myr
+1 Altar's Reap
 1 Amphin Pathmage
+1 Arbor Elf
+1 Arc Lightning
+1 Arcane Sanctum
+1 Azorius Arrester
+1 Azorius Chancery
+1 Azorius Guildgate
+1 Azorius Justiciar
+1 Azorius Signet
+1 Basilica Guards
+1 Basilica Screecher
 1 Black Cat
+1 Blightcaster
+1 Blood Bairn
+1 Bloodfell Caves
+1 Blossoming Sands
+1 Bomber Corps
+1 Boros Garrison
+1 Boros Guildgate
+1 Boros Mastiff
+1 Boros Signet
+1 Brainstorm
+1 Briarpack Alpha
+1 Brindle Boar
 1 Carrion Crow
+1 Centaur Courser
+1 Chemister's Trick
+1 Clinging Anemones
+1 Cloudfin Raptor
+1 Condemn
+1 Congregate
+1 Copper Myr
 1 Coral Barrier
+1 Counterspell
+1 Coursers' Accord
+1 Crocanura
+1 Dark Banishing
+1 Darksteel Ingot
 1 Dauntless River Marshal
+1 Dead Reveler
+1 Demolish
+1 Dimir Aqueduct
+1 Dimir Guildgate
+1 Dimir Signet
+1 Diregraf Ghoul
+1 Disenchant
+1 Dismal Backwater
+1 Dismember
+1 Disperse
+1 Divination
+1 Doom Blade
+1 Downsize
+1 Drudge Beetle
+1 Druid's Deliverance
+1 Duress
+1 Dynacharge
+1 Electrickery
+1 Essence Scatter
 1 Eternal Thirst
+1 Eyes in the Skies
+1 Firebolt
+1 Flames of the Firebrand
+1 Force Spike
+1 Fortify
+1 Frost Breath
 1 Generator Servant
+1 Giant Growth
+1 Giant Spider
+1 Glimpse the Future
+1 Go for the Throat
+1 Goblin Shortcutter
+1 Gold Myr
+1 Golgari Guildgate
+1 Golgari Rot Farm
+1 Golgari Signet
+1 Gore-House Chainwalker
+1 Griffin Sentinel
+1 Grim Roustabout
+1 Gruul Guildgate
+1 Gruul Signet
+1 Gruul Turf
+1 Hands of Binding
 1 Heliod's Pilgrim
+1 Hunt the Weak
+1 Inaction Injunction
+1 Incinerate
 1 Inferno Fist
 1 Into the Void
 1 Invasive Species
+1 Iron Myr
+1 Izzet Boilerworks
+1 Izzet Guildgate
+1 Izzet Signet
 1 Jorubai Murk Lurker
+1 Journey to Nowhere
+1 Jungle Hollow
+1 Kingpin's Pet
 1 Kinsbaile Skirmisher
+1 Korozda Monitor
+1 Last Thoughts
+1 Lava Axe
+1 Lay of the Land
+1 Leaden Myr
+1 Lightning Mauler
 1 Lightning Strike
 1 Living Totem
-1 Marked by Honor
-1 Midnight Guard
-1 Necrobite
-1 Netcaster Spider
-1 Nimbus of the Isles
-1 Paragon of Eternal Wilds
-1 Pillar of Light
-1 Quickling
-1 Razorfoot Griffin
-1 Reclamation Sage
-1 Satyr Wayfinder
-1 Scrapyard Mongrel
-1 Shadowcloak Vampire
-1 Shrapnel Blast
-1 Sungrace Pegasus
-1 Typhoid Rats
-1 Undergrowth Scavenger
-1 Warden of the Beyond
-1 Zof Shade
-1 Condemn
-1 Palladium Myr
-1 Bloodfell Caves
-1 Blossoming Sands
-1 Dismal Backwater
-1 Jungle Hollow
-1 Rugged Highlands
-1 Scoured Barrens
-1 Swiftwater Cliffs
-1 Thornwood Falls
-1 Tranquil Cove
-1 Wind-Scarred Crag
-1 Firebolt
-1 Incinerate
-1 Magma Jet
-1 Rancor
 1 Llanowar Elves
-1 Arc Lightning
-1 Duress
-1 Naturalize
-1 Reanimate
-1 Dark Banishing
-1 Disenchant
-1 Counterspell
-1 Dimir Aqueduct
-1 Gruul Turf
-1 Izzet Boilerworks
-1 Selesnya Sanctuary
-1 Rakdos Carnarium
-1 Simic Growth Chamber
-1 Oblivion Ring
+1 Lyev Decree
+1 Lyev Skyknight
+1 Magma Jet
 1 Mana Leak
-1 Alloy Myr
-1 Boros Garrison
-1 Dismember
-1 Azorius Chancery
-1 Golgari Rot Farm
+1 Marked by Honor
+1 Master of Diversion
+1 Merfolk Spy
+1 Midnight Guard
+1 Midnight Recovery
+1 Mind Rot
+1 Mizzium Skin
+1 Naturalize
+1 Nav Squad Commandos
+1 Necrobite
+1 Negate
+1 Nephalia Seakite
+1 Netcaster Spider
+1 Nightwing Shade
+1 Nimbus of the Isles
+1 Oblivion Ring
 1 Orzhov Basilica
+1 Orzhov Guildgate
+1 Orzhov Signet
+1 Pacifism
+1 Palladium Myr
+1 Paragon of Eternal Wilds
+1 Paranoid Delusions
+1 Path to Exile
+1 Pillar of Flame
+1 Pillar of Light
+1 Pitchburn Devils
+1 Ponder
+1 Quickling
+1 Rakdos Carnarium
+1 Rakdos Guildgate
+1 Rakdos Signet
+1 Rancor
+1 Razorfoot Griffin
+1 Reanimate
+1 Reclamation Sage
+1 River Boa
+1 Rootwalla
+1 Rubblebelt Maaka
+1 Rugged Highlands
+1 Satyr Wayfinder
+1 Scab-Clan Charger
+1 Scorchwalker
+1 Scoured Barrens
+1 Scrapyard Mongrel
+1 Scroll Thief
+1 Searing Spear
+1 Seismic Stomp
+1 Selesnya Guildgate
+1 Selesnya Sanctuary
+1 Selesnya Signet
+1 Sewer Shambler
+1 Shadow Slice
+1 Shadowcloak Vampire
+1 Shambleshark
+1 Shock
+1 Shrapnel Blast
+1 Silver Myr
+1 Simic Growth Chamber
+1 Simic Guildgate
+1 Simic Signet
+1 Skinbrand Goblin
+1 Slaughterhorn
+1 Sluiceway Scorpion
+1 Solemn Offering
+1 Soulmender
+1 Spawn of Rix Maadi
+1 Splatter Thug
+1 Sundering Growth
+1 Sungrace Pegasus
+1 Swiftwater Cliffs
+1 Syndic of Tithes
+1 Syndicate Enforcer
+1 Terrus Wurm
+1 Thornwood Falls
+1 Time Ebb
+1 Tranquil Cove
+1 Trollhide
+1 Trostani's Judgment
+1 Typhoid Rats
+1 Undead Minotaur
+1 Undergrowth Scavenger
+1 Vampire Warlord
+1 Vile Rebirth
+1 Warden of Evos Isle
+1 Warden of the Beyond
+1 Warmind Infantry
+1 Wind-Scarred Crag
+1 Windstorm
+1 Wojek Halberdiers
+1 Young Pyromancer
+1 Zof Shade
