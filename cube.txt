@@ -1,30 +1,58 @@
-# Feed Stack Cube
+# cube
+1x Disenchant
+1x Oblivion Ring
+1x Journey to Nowhere
+1x Firebolt
+1x River Boa
+1x Condemn
+1x Llanowar Elves
 1x Copper Myr
 1x Gold Myr
 1x Iron Myr
 1x Leaden Myr
+1x Go for the Throat
+1x Azorius Signet
+1x Reanimate
 1x Silver Myr
-1x Arcane Sanctum
+1x Doom Blade
+1x Diregraf Ghoul
+1x Dismember
+1x Incinerate
+1x Pillar of Flame
+1x Mana Leak
+1x Ponder
+1x Rakdos Signet
+1x Simic Signet
+1x Gruul Signet
+1x Izzet Signet
+1x Orzhov Signet
+1x Boros Signet
+1x Dimir Signet
+1x Golgari Signet
+1x Selesnya Signet
+1x Searing Spear
+1x Arbor Elf
+1x Rancor
+1x Path to Exile
+1x Lightning Mauler
+1x Force Spike
+1x Brainstorm
+1x Duress
+1x Magma Jet
 1x Azorius Guildgate
 1x Boros Guildgate
-1x Crumbling Necropolis
 1x Darksteel Ingot
 1x Dimir Guildgate
 1x Gruul Guildgate
 1x Izzet Guildgate
-1x Jungle Shrine
 1x Orzhov Guildgate
 1x Rakdos Guildgate
-1x Savage Lands
-1x Seaside Citadel
 1x Selesnya Guildgate
 1x Simic Guildgate
 1x Golgari Guildgate
-1x Frontier Bivouac
-1x Mystic Monastery
-1x Nomad Outpost
-1x Opulent Palace
-1x Sandsteppe Citadel
+1x Counterspell
+1x Naturalize
+1x Arc Lightning
 1x Palladium Myr
 1x Bloodfell Caves
 1x Blossoming Sands
@@ -36,6 +64,7 @@
 1x Thornwood Falls
 1x Tranquil Cove
 1x Wind-Scarred Crag
+1x Dark Banishing
 1x Dimir Aqueduct
 1x Gruul Turf
 1x Izzet Boilerworks
