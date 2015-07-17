@@ -14,6 +14,57 @@
 1x Azorius Signet
 1x Reanimate
 1x Silver Myr
+1x Electrickery
+1x Spawn of Rix Maadi
+1x Eyes in the Skies
+1x Sewer Shambler
+1x Sluiceway Scorpion
+1x Mizzium Skin
+1x Coursers' Accord
+1x Dead Reveler
+1x Downsize
+1x Inaction Injunction
+1x Splatter Thug
+1x Grim Roustabout
+1x Lyev Skyknight
+1x Dynacharge
+1x Drudge Beetle
+1x Sundering Growth
+1x Azorius Justiciar
+1x Gore-House Chainwalker
+1x Korozda Monitor
+1x Azorius Arrester
+1x Druid's Deliverance
+1x Terrus Wurm
+1x Trostani's Judgment
+1x Chemister's Trick
+1x Syndicate Enforcer
+1x Wojek Halberdiers
+1x Warmind Infantry
+1x Slaughterhorn
+1x Adaptive Snapjaw
+1x Crocanura
+1x Basilica Screecher
+1x Paranoid Delusions
+1x Basilica Guards
+1x Kingpin's Pet
+1x Clinging Anemones
+1x Bomber Corps
+1x Nav Squad Commandos
+1x Syndic of Tithes
+1x Cloudfin Raptor
+1x Last Thoughts
+1x Scorchwalker
+1x Scab-Clan Charger
+1x Skinbrand Goblin
+1x Hands of Binding
+1x Shadow Slice
+1x Midnight Recovery
+1x Shambleshark
+1x Lyev Decree
+1x Boros Mastiff
+1x Rubblebelt Maaka
+1x Arcane Sanctum
 1x Doom Blade
 1x Diregraf Ghoul
 1x Dismember
