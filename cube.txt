@@ -1,6 +1,4 @@
 # cube
-<<<<<<< HEAD
-=======
 1x Disenchant
 1x Oblivion Ring
 1x Journey to Nowhere
@@ -8,7 +6,6 @@
 1x River Boa
 1x Condemn
 1x Llanowar Elves
->>>>>>> 722c5fbb2f48e4ffdc4035d2bbe92729199a2863
 1x Copper Myr
 1x Gold Myr
 1x Iron Myr
@@ -17,7 +14,6 @@
 1x Azorius Signet
 1x Reanimate
 1x Silver Myr
-<<<<<<< HEAD
 1x Electrickery
 1x Spawn of Rix Maadi
 1x Eyes in the Skies
@@ -69,7 +65,6 @@
 1x Boros Mastiff
 1x Rubblebelt Maaka
 1x Arcane Sanctum
-=======
 1x Doom Blade
 1x Diregraf Ghoul
 1x Dismember
@@ -95,7 +90,6 @@
 1x Brainstorm
 1x Duress
 1x Magma Jet
->>>>>>> 722c5fbb2f48e4ffdc4035d2bbe92729199a2863
 1x Azorius Guildgate
 1x Boros Guildgate
 1x Darksteel Ingot
