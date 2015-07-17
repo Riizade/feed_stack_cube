@@ -1,129 +1,210 @@
 # cube
-1x Disenchant
-1x Oblivion Ring
-1x Journey to Nowhere
-1x Firebolt
-1x River Boa
-1x Condemn
-1x Llanowar Elves
-1x Copper Myr
-1x Gold Myr
-1x Iron Myr
-1x Leaden Myr
-1x Go for the Throat
-1x Azorius Signet
-1x Reanimate
-1x Silver Myr
-1x Electrickery
-1x Spawn of Rix Maadi
-1x Eyes in the Skies
-1x Sewer Shambler
-1x Sluiceway Scorpion
-1x Mizzium Skin
-1x Coursers' Accord
-1x Dead Reveler
-1x Downsize
-1x Inaction Injunction
-1x Splatter Thug
-1x Grim Roustabout
-1x Lyev Skyknight
-1x Dynacharge
-1x Drudge Beetle
-1x Sundering Growth
-1x Azorius Justiciar
-1x Gore-House Chainwalker
-1x Korozda Monitor
-1x Azorius Arrester
-1x Druid's Deliverance
-1x Terrus Wurm
-1x Trostani's Judgment
-1x Chemister's Trick
-1x Syndicate Enforcer
-1x Wojek Halberdiers
-1x Warmind Infantry
-1x Slaughterhorn
-1x Adaptive Snapjaw
-1x Crocanura
-1x Basilica Screecher
-1x Paranoid Delusions
-1x Basilica Guards
-1x Kingpin's Pet
-1x Clinging Anemones
-1x Bomber Corps
-1x Nav Squad Commandos
-1x Syndic of Tithes
-1x Cloudfin Raptor
-1x Last Thoughts
-1x Scorchwalker
-1x Scab-Clan Charger
-1x Skinbrand Goblin
-1x Hands of Binding
-1x Shadow Slice
-1x Midnight Recovery
-1x Shambleshark
-1x Lyev Decree
-1x Boros Mastiff
-1x Rubblebelt Maaka
-1x Arcane Sanctum
-1x Doom Blade
-1x Diregraf Ghoul
-1x Dismember
-1x Incinerate
-1x Pillar of Flame
-1x Mana Leak
-1x Ponder
-1x Rakdos Signet
-1x Simic Signet
-1x Gruul Signet
-1x Izzet Signet
-1x Orzhov Signet
-1x Boros Signet
-1x Dimir Signet
-1x Golgari Signet
-1x Selesnya Signet
-1x Searing Spear
-1x Arbor Elf
-1x Rancor
-1x Path to Exile
-1x Lightning Mauler
-1x Force Spike
-1x Brainstorm
-1x Duress
-1x Magma Jet
-1x Azorius Guildgate
-1x Boros Guildgate
-1x Darksteel Ingot
-1x Dimir Guildgate
-1x Gruul Guildgate
-1x Izzet Guildgate
-1x Orzhov Guildgate
-1x Rakdos Guildgate
-1x Selesnya Guildgate
-1x Simic Guildgate
-1x Golgari Guildgate
-1x Counterspell
-1x Naturalize
-1x Arc Lightning
-1x Palladium Myr
-1x Bloodfell Caves
-1x Blossoming Sands
-1x Dismal Backwater
-1x Jungle Hollow
-1x Rugged Highlands
-1x Scoured Barrens
-1x Swiftwater Cliffs
-1x Thornwood Falls
-1x Tranquil Cove
-1x Wind-Scarred Crag
-1x Dark Banishing
-1x Dimir Aqueduct
-1x Gruul Turf
-1x Izzet Boilerworks
-1x Selesnya Sanctuary
-1x Rakdos Carnarium
-1x Simic Growth Chamber
-1x Alloy Myr
-1x Boros Garrison
-1x Azorius Chancery
-1x Golgari Rot Farm
-1x Orzhov Basilica
+1 Copper Myr
+1 Gold Myr
+1 Iron Myr
+1 Leaden Myr
+1 Go for the Throat
+1 Azorius Signet
+1 Silver Myr
+1 Diregraf Ghoul
+1 Pillar of Flame
+1 Ponder
+1 Rakdos Signet
+1 Gruul Signet
+1 Orzhov Signet
+1 Boros Signet
+1 Dimir Signet
+1 Journey to Nowhere
+1 Searing Spear
+1 Arbor Elf
+1 Electrickery
+1 Spawn of Rix Maadi
+1 Eyes in the Skies
+1 Sewer Shambler
+1 Sluiceway Scorpion
+1 Mizzium Skin
+1 Coursers' Accord
+1 Dead Reveler
+1 Downsize
+1 Inaction Injunction
+1 Splatter Thug
+1 Grim Roustabout
+1 Lyev Skyknight
+1 Dynacharge
+1 Drudge Beetle
+1 Sundering Growth
+1 Azorius Justiciar
+1 Gore-House Chainwalker
+1 Korozda Monitor
+1 Azorius Arrester
+1 Lightning Mauler
+1 Druid's Deliverance
+1 Terrus Wurm
+1 Trostani's Judgment
+1 Chemister's Trick
+1 Izzet Signet
+1 Force Spike
+1 Golgari Signet
+1 Syndicate Enforcer
+1 Wojek Halberdiers
+1 Warmind Infantry
+1 Slaughterhorn
+1 Adaptive Snapjaw
+1 Crocanura
+1 Basilica Screecher
+1 Paranoid Delusions
+1 Basilica Guards
+1 Kingpin's Pet
+1 Clinging Anemones
+1 Bomber Corps
+1 Nav Squad Commandos
+1 Syndic of Tithes
+1 Cloudfin Raptor
+1 Last Thoughts
+1 Scorchwalker
+1 Scab-Clan Charger
+1 Skinbrand Goblin
+1 Hands of Binding
+1 Shadow Slice
+1 Midnight Recovery
+1 Shambleshark
+1 Lyev Decree
+1 Boros Mastiff
+1 Rubblebelt Maaka
+1 Soulmender
+1 Lava Axe
+1 Young Pyromancer
+1 Doom Blade
+1 Goblin Shortcutter
+1 Divination
+1 Demolish
+1 Windstorm
+1 Time Ebb
+1 Pitchburn Devils
+1 Scroll Thief
+1 Shock
+1 Trollhide
+1 Altar's Reap
+1 Frost Breath
+1 Rootwalla
+1 Essence Scatter
+1 Blood Bairn
+1 Undead Minotaur
+1 Nightwing Shade
+1 Master of Diversion
+1 Vampire Warlord
+1 Mind Rot
+1 Fortify
+1 Seismic Stomp
+1 Negate
+1 Solemn Offering
+1 Advocate of the Beast
+1 Briarpack Alpha
+1 Hunt the Weak
+1 Nephalia Seakite
+1 Blightcaster
+1 Merfolk Spy
+1 Lay of the Land
+1 Glimpse the Future
+1 Brindle Boar
+1 Giant Spider
+1 Giant Growth
+1 Griffin Sentinel
+1 Vile Rebirth
+1 Congregate
+1 Pacifism
+1 Warden of Evos Isle
+1 Disperse
+1 Flames of the Firebrand
+1 Arcane Sanctum
+1 Azorius Guildgate
+1 Boros Guildgate
+1 Darksteel Ingot
+1 Dimir Guildgate
+1 Gruul Guildgate
+1 Izzet Guildgate
+1 Orzhov Guildgate
+1 Rakdos Guildgate
+1 Selesnya Guildgate
+1 Selesnya Signet
+1 Simic Guildgate
+1 Simic Signet
+1 Golgari Guildgate
+1 River Boa
+1 Path to Exile
+1 Brainstorm
+1 Centaur Courser
+1 Act on Impulse
+1 Aeronaut Tinkerer
+1 Amphin Pathmage
+1 Black Cat
+1 Carrion Crow
+1 Coral Barrier
+1 Dauntless River Marshal
+1 Eternal Thirst
+1 Generator Servant
+1 Heliod's Pilgrim
+1 Inferno Fist
+1 Into the Void
+1 Invasive Species
+1 Jorubai Murk Lurker
+1 Kinsbaile Skirmisher
+1 Lightning Strike
+1 Living Totem
+1 Marked by Honor
+1 Midnight Guard
+1 Necrobite
+1 Netcaster Spider
+1 Nimbus of the Isles
+1 Paragon of Eternal Wilds
+1 Pillar of Light
+1 Quickling
+1 Razorfoot Griffin
+1 Reclamation Sage
+1 Satyr Wayfinder
+1 Scrapyard Mongrel
+1 Shadowcloak Vampire
+1 Shrapnel Blast
+1 Sungrace Pegasus
+1 Typhoid Rats
+1 Undergrowth Scavenger
+1 Warden of the Beyond
+1 Zof Shade
+1 Condemn
+1 Palladium Myr
+1 Bloodfell Caves
+1 Blossoming Sands
+1 Dismal Backwater
+1 Jungle Hollow
+1 Rugged Highlands
+1 Scoured Barrens
+1 Swiftwater Cliffs
+1 Thornwood Falls
+1 Tranquil Cove
+1 Wind-Scarred Crag
+1 Firebolt
+1 Incinerate
+1 Magma Jet
+1 Rancor
+1 Llanowar Elves
+1 Arc Lightning
+1 Duress
+1 Naturalize
+1 Reanimate
+1 Dark Banishing
+1 Disenchant
+1 Counterspell
+1 Dimir Aqueduct
+1 Gruul Turf
+1 Izzet Boilerworks
+1 Selesnya Sanctuary
+1 Rakdos Carnarium
+1 Simic Growth Chamber
+1 Oblivion Ring
+1 Mana Leak
+1 Alloy Myr
+1 Boros Garrison
+1 Dismember
+1 Azorius Chancery
+1 Golgari Rot Farm
+1 Orzhov Basilica
