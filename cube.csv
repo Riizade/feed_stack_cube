@@ -1,3 +1,5 @@
+30570,Firebolt,Odyssey
+83046,Dark Banishing,Ninth Edition
 205278,Copper Myr,Planechase
 205283,Gold Myr,Planechase
 205285,Iron Myr,Planechase
@@ -6,8 +8,8 @@
 221892,Llanowar Elves,Magic 2012
 222741,Silver Myr,Duel Decks: Elspeth vs. Tezzeret
 226747,Diregraf Ghoul,Innistrad
+234075,Incinerate,Magic 2012
 240013,Pillar of Flame,Avacyn Restored
-244313,Ponder,Magic 2012
 247193,Rakdos Signet,Magic: The Gathering-Commander
 247277,Gruul Signet,Magic: The Gathering-Commander
 247285,Orzhov Signet,Magic: The Gathering-Commander
@@ -74,9 +76,11 @@
 370609,Doom Blade,Magic 2014 Core Set
 370610,Goblin Shortcutter,Magic 2014 Core Set
 370628,Windstorm,Magic 2014 Core Set
+370641,Time Ebb,Magic 2014 Core Set
 370651,Scroll Thief,Magic 2014 Core Set
 370664,Trollhide,Magic 2014 Core Set
 370678,Frost Breath,Magic 2014 Core Set
+370693,Rootwalla,Magic 2014 Core Set
 370694,Essence Scatter,Magic 2014 Core Set
 370698,Blood Bairn,Magic 2014 Core Set
 370702,Undead Minotaur,Magic 2014 Core Set
@@ -97,6 +101,7 @@
 370799,Vile Rebirth,Magic 2014 Core Set
 370815,Warden of Evos Isle,Magic 2014 Core Set
 370824,Flames of the Firebrand,Magic 2014 Core Set
+373704,Magma Jet,Theros
 376256,Azorius Guildgate,Commander 2013 Edition
 376272,Boros Guildgate,Commander 2013 Edition
 376296,Darksteel Ingot,Commander 2013 Edition
@@ -113,7 +118,6 @@
 380260,River Boa,Duel Decks: Jace vs. Vraska
 382213,Altar's Reap,Magic: The Gathering—Conspiracy
 382326,Pitchburn Devils,Magic: The Gathering—Conspiracy
-382871,Brainstorm,Vintage Masters
 383162,Centaur Courser,Magic 2015 Core Set
 383176,Act on Impulse,Magic 2015 Core Set
 383177,Aeronaut Tinkerer,Magic 2015 Core Set
@@ -131,6 +135,7 @@
 383278,Into the Void,Magic 2015 Core Set
 383279,Invasive Species,Magic 2015 Core Set
 383288,Jorubai Murk Lurker,Magic 2015 Core Set
+383292,Kinsbaile Skirmisher,Magic 2015 Core Set
 383296,Lava Axe,Magic 2015 Core Set
 383299,Lightning Strike,Magic 2015 Core Set
 383301,Living Totem,Magic 2015 Core Set
@@ -170,18 +175,11 @@
 391946,Tranquil Cove,Fate Reforged
 391947,Typhoid Rats,Fate Reforged
 391963,Wind-Scarred Crag,Fate Reforged
-393833,Firebolt,"Duel Decks Anthology, Jace vs. Chandra"
-393844,Incinerate,"Duel Decks Anthology, Jace vs. Chandra"
-393853,Magma Jet,"Duel Decks Anthology, Jace vs. Chandra"
-394379,Kinsbaile Skirmisher,Duel Decks: Kiora vs. Elspeth
+394493,Anticipate,Dragons of Tarkir
+394523,Contradict,Dragons of Tarkir
 394560,Duress,Dragons of Tarkir
 394623,Mind Rot,Dragons of Tarkir
 394634,Naturalize,Dragons of Tarkir
-397423,Reanimate,Tempest Remastered
-397458,Dark Banishing,Tempest Remastered
-397580,Rootwalla,Tempest Remastered
-397608,Time Ebb,Tempest Remastered
-397612,Counterspell,Tempest Remastered
 397672,Dimir Aqueduct,Modern Masters 2015 Edition
 397689,Gruul Turf,Modern Masters 2015 Edition
 397707,Izzet Boilerworks,Modern Masters 2015 Edition
