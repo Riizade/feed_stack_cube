@@ -1,5 +1,25 @@
+26373,Quicksilver Dagger,Apocalypse
 30570,Firebolt,Odyssey
 83046,Dark Banishing,Ninth Edition
+83908,Woodwraith Strangler,Ravnica: City of Guilds
+89075,Seeds of Strength,Ravnica: City of Guilds
+97074,Rakdos Ickspitter,Dissension
+97076,Riot Spikes,Dissension
+107680,Leap of Flame,Guildpact
+150977,Odious Trow,Eventide
+151068,Riverfall Mimic,Eventide
+153963,Safehold Duo,Shadowmoor
+154263,Inside Out,Eventide
+158599,Woodlurker Mimic,Eventide
+158753,Fists of the Demigod,Shadowmoor
+158772,Barkshell Blessing,Shadowmoor
+175100,Blood Cultist,Shards of Alara
+175134,Steward of Valeron,Shards of Alara
+180311,Demonspine Whip,Alara Reborn
+180606,Leonin Armorguard,Alara Reborn
+183014,Marrow Chomper,Alara Reborn
+184991,Shambling Remains,Conflux
+189653,Cloven Casting,Alara Reborn
 205278,Copper Myr,Planechase
 205283,Gold Myr,Planechase
 205285,Iron Myr,Planechase
@@ -18,14 +38,24 @@
 247547,Journey to Nowhere,Magic: The Gathering-Commander
 249684,Searing Spear,Magic 2013
 249840,Arbor Elf,Magic 2013
+253509,Dreg Mangler,Return to Ravnica
+253510,Mercurial Chemister,Return to Ravnica
 253545,Electrickery,Return to Ravnica
 253549,Spawn of Rix Maadi,Return to Ravnica
+253551,Thoughtflare,Return to Ravnica
 253553,Eyes in the Skies,Return to Ravnica
+253562,Teleportal,Return to Ravnica
 253576,Sewer Shambler,Return to Ravnica
+253586,Slitherhead,Return to Ravnica
+253591,Rakdos Shred-Freak,Return to Ravnica
+253596,Rakdos Cackler,Return to Ravnica
 253607,Sluiceway Scorpion,Return to Ravnica
+253622,Skull Rend,Return to Ravnica
 253636,Mizzium Skin,Return to Ravnica
+253638,Izzet Staticaster,Return to Ravnica
 253639,Coursers' Accord,Return to Ravnica
 253640,Dead Reveler,Return to Ravnica
+253655,Hypersonic Dragon,Return to Ravnica
 259712,Pacifism,Magic 2013
 262663,Diregraf Captain,Dark Ascension
 265374,Downsize,Return to Ravnica
@@ -36,18 +66,33 @@
 265397,Dynacharge,Return to Ravnica
 265407,Drudge Beetle,Return to Ravnica
 265415,Sundering Growth,Return to Ravnica
+270346,Vitu-Ghazi Guildmage,Return to Ravnica
+270351,Rix Maadi Guildmage,Return to Ravnica
+270364,Korozda Guildmage,Return to Ravnica
 270795,Azorius Justiciar,Return to Ravnica
 270796,Gore-House Chainwalker,Return to Ravnica
 270797,Korozda Monitor,Return to Ravnica
+270963,Carnival Hellsteed,Return to Ravnica
 270972,Azorius Arrester,Return to Ravnica
 271119,Lightning Mauler,Avacyn Restored
+277996,Grisly Salvage,Return to Ravnica
+289211,Hellhole Flailer,Return to Ravnica
 289215,Druid's Deliverance,Return to Ravnica
+289220,Trestle Troll,Return to Ravnica
+289222,Blistercoil Weird,Return to Ravnica
 289223,Terrus Wurm,Return to Ravnica
 289225,Trostani's Judgment,Return to Ravnica
+289230,Frostburn Weird,Return to Ravnica
 290524,Chemister's Trick,Return to Ravnica
+290525,Rakdos Ragemutt,Return to Ravnica
+290527,Essence Backlash,Return to Ravnica
 292736,Izzet Signet,Duel Decks: Izzet vs. Golgari
 292750,Force Spike,Duel Decks: Izzet vs. Golgari
+292757,Quicksilver Dagger,Duel Decks: Izzet vs. Golgari
+292948,Golgari Germination,Duel Decks: Izzet vs. Golgari
+292951,Golgari Rotwurm,Duel Decks: Izzet vs. Golgari
 292952,Golgari Signet,Duel Decks: Izzet vs. Golgari
+292957,Shambling Shell,Duel Decks: Izzet vs. Golgari
 366243,Syndicate Enforcer,Gatecrash
 366247,Immortal Servitude,Gatecrash
 366250,Primal Visitation,Gatecrash
@@ -126,6 +171,13 @@
 369051,Boros Battleshaper,Dragon's Maze
 369065,Zhur-Taa Druid,Dragon's Maze
 369070,Viashino Firstblade,Dragon's Maze
+368955,Fluxcharger,Dragon's Maze
+368965,Lyev Decree,Dragon's Maze
+368971,Bronzebeak Moa,Dragon's Maze
+368972,Spike Jester,Dragon's Maze
+368977,"Varolz, the Scar-Striped",Dragon's Maze
+369028,Boros Mastiff,Dragon's Maze
+369074,Unflinching Courage,Dragon's Maze
 369075,Rubblebelt Maaka,Dragon's Maze
 369087,Haunter of Nightveil,Dragon's Maze
 369094,Warped Physique,Dragon's Maze
@@ -164,6 +216,7 @@
 373695,Psychic Intrusion,Theros
 373697,Sentry of the Underworld,Theros
 373702,Shipwreck Singer,Theros
+373569,Pharika's Mender,Theros
 373704,Magma Jet,Theros
 373738,Horizon Chimera,Theros
 376256,Azorius Guildgate,Commander 2013 Edition
