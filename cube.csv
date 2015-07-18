@@ -27,6 +27,7 @@
 253639,Coursers' Accord,Return to Ravnica
 253640,Dead Reveler,Return to Ravnica
 259712,Pacifism,Magic 2013
+262663,Diregraf Captain,Dark Ascension
 265374,Downsize,Return to Ravnica
 265376,Inaction Injunction,Return to Ravnica
 265381,Splatter Thug,Return to Ravnica
@@ -48,31 +49,87 @@
 292750,Force Spike,Duel Decks: Izzet vs. Golgari
 292952,Golgari Signet,Duel Decks: Izzet vs. Golgari
 366243,Syndicate Enforcer,Gatecrash
+366247,Immortal Servitude,Gatecrash
+366250,Primal Visitation,Gatecrash
+366252,Zhur-Taa Swine,Gatecrash
+366261,One Thousand Lashes,Gatecrash
 366265,Wojek Halberdiers,Gatecrash
+366267,Vizkopa Confessor,Gatecrash
 366272,Warmind Infantry,Gatecrash
+366275,Nimbus Swimmer,Gatecrash
+366278,Deathpact Angel,Gatecrash
+366279,Elusive Krasis,Gatecrash
+366280,Fortress Cyclops,Gatecrash
 366281,Slaughterhorn,Gatecrash
+366287,Ghor-Clan Rampager,Gatecrash
 366290,Adaptive Snapjaw,Gatecrash
+366292,Drakewing Krasis,Gatecrash
+366295,Frenzied Tilling,Gatecrash
+366299,Bioshift,Gatecrash
+366308,Call of the Nightwing,Gatecrash
+366312,Biomass Mutation,Gatecrash
 366319,Crocanura,Gatecrash
 366321,Basilica Screecher,Gatecrash
+366322,Truefire Paladin,Gatecrash
 366324,Paranoid Delusions,Gatecrash
+366328,Duskmantle Guildmage,Gatecrash
+366338,Skyknight Legionnaire,Gatecrash
+366341,Firemane Avenger,Gatecrash
 366347,Basilica Guards,Gatecrash
+366350,Skarrg Guildmage,Gatecrash
+366351,Soul Ransom,Gatecrash
+366358,Martial Glory,Gatecrash
+366359,Treasury Thrull,Gatecrash
+366360,Gruul Charm,Gatecrash
 366361,Kingpin's Pet,Gatecrash
 366363,Clinging Anemones,Gatecrash
+366364,Cartel Aristocrat,Gatecrash
 366370,Bomber Corps,Gatecrash
+366371,Vizkopa Guildmage,Gatecrash
 366378,Nav Squad Commandos,Gatecrash
+366381,Arrows of Justice,Gatecrash
 366387,Syndic of Tithes,Gatecrash
+366393,Purge the Profane,Gatecrash
+366398,Gruul Ragebeast,Gatecrash
 366403,Cloudfin Raptor,Gatecrash
 366407,Last Thoughts,Gatecrash
+366408,Coerced Confession,Gatecrash
 366409,Scorchwalker,Gatecrash
 366410,Scab-Clan Charger,Gatecrash
+366422,Spark Trooper,Gatecrash
+366423,Hydroform,Gatecrash
+366428,Ground Assault,Gatecrash
+366429,Sunhome Guildmage,Gatecrash
 366434,Skinbrand Goblin,Gatecrash
+366436,Orzhov Charm,Gatecrash
+366444,Executioner's Swing,Gatecrash
 366445,Hands of Binding,Gatecrash
+366450,Pit Fight,Gatecrash
+366453,Dinrova Horror,Gatecrash
+366454,Zameck Guildmage,Gatecrash
 366455,Shadow Slice,Gatecrash
+366461,Beckon Apparition,Gatecrash
+366463,Simic Charm,Gatecrash
+366473,Dimir Charm,Gatecrash
+366475,Bane Alley Broker,Gatecrash
 366476,Midnight Recovery,Gatecrash
 366478,Shambleshark,Gatecrash
+368953,Bred for the Hunt,Dragon's Maze
+368956,Gruul War Chant,Dragon's Maze
 368965,Lyev Decree,Dragon's Maze
+368969,Feral Animist,Dragon's Maze
+368970,Tithe Drinker,Dragon's Maze
+368987,Gleam of Battle,Dragon's Maze
+369000,Beetleform Mage,Dragon's Maze
+369025,"Ruric Thar, the Unbowed",Dragon's Maze
 369028,Boros Mastiff,Dragon's Maze
+369051,Boros Battleshaper,Dragon's Maze
+369065,Zhur-Taa Druid,Dragon's Maze
+369070,Viashino Firstblade,Dragon's Maze
 369075,Rubblebelt Maaka,Dragon's Maze
+369087,Haunter of Nightveil,Dragon's Maze
+369094,Warped Physique,Dragon's Maze
+369099,Pilfered Plans,Dragon's Maze
 370609,Doom Blade,Magic 2014 Core Set
 370610,Goblin Shortcutter,Magic 2014 Core Set
 370628,Windstorm,Magic 2014 Core Set
@@ -101,7 +158,14 @@
 370799,Vile Rebirth,Magic 2014 Core Set
 370815,Warden of Evos Isle,Magic 2014 Core Set
 370824,Flames of the Firebrand,Magic 2014 Core Set
+373530,Anax and Cymede,Theros
+373590,Akroan Hoplite,Theros
+373678,Destructive Revelry,Theros
+373695,Psychic Intrusion,Theros
+373697,Sentry of the Underworld,Theros
+373702,Shipwreck Singer,Theros
 373704,Magma Jet,Theros
+373738,Horizon Chimera,Theros
 376256,Azorius Guildgate,Commander 2013 Edition
 376272,Boros Guildgate,Commander 2013 Edition
 376296,Darksteel Ingot,Commander 2013 Edition
@@ -114,8 +178,11 @@
 376493,Selesnya Signet,Commander 2013 Edition
 376500,Simic Guildgate,Commander 2013 Edition
 376501,Simic Signet,Commander 2013 Edition
+378519,Fanatic of Xenagos,Born of the Gods
+378522,Kiora's Follower,Born of the Gods
 380220,Golgari Guildgate,Duel Decks: Jace vs. Vraska
 380260,River Boa,Duel Decks: Jace vs. Vraska
+380415,Fleetfeather Cockatrice,Journey into Nyx
 382213,Altar's Reap,Magic: The Gathering—Conspiracy
 382326,Pitchburn Devils,Magic: The Gathering—Conspiracy
 383162,Centaur Courser,Magic 2015 Core Set
@@ -160,12 +227,15 @@
 383443,Zof Shade,Magic 2015 Core Set
 386365,Shock,Duel Decks: Speed vs. Cunning
 386478,Arc Lightning,Khans of Tarkir
+386636,Ride Down,Khans of Tarkir
 389469,Condemn,Commander 2014
 389624,Palladium Myr,Commander 2014
 389651,Reclamation Sage,Commander 2014
 391802,Bloodfell Caves,Fate Reforged
 391804,Blossoming Sands,Fate Reforged
 391820,Dismal Backwater,Fate Reforged
+391828,Ethereal Ambush,Fate Reforged
+391851,Harsh Sustenance,Fate Reforged
 391858,Hunt the Weak,Fate Reforged
 391865,Jungle Hollow,Fate Reforged
 391908,Rugged Highlands,Fate Reforged
@@ -180,6 +250,7 @@
 394560,Duress,Dragons of Tarkir
 394623,Mind Rot,Dragons of Tarkir
 394634,Naturalize,Dragons of Tarkir
+394635,Necromaster Dragon,Dragons of Tarkir
 397672,Dimir Aqueduct,Modern Masters 2015 Edition
 397689,Gruul Turf,Modern Masters 2015 Edition
 397707,Izzet Boilerworks,Modern Masters 2015 Edition
