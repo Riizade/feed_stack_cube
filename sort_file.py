@@ -2,6 +2,7 @@
 __author__ = 'riizade@gmail.com'
 
 import sys
+
 inputfile = sys.argv[1]
 outputfile = sys.argv[1]
 if len(sys.argv) == 3:
