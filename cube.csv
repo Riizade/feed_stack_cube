@@ -133,8 +133,8 @@
 292957,Shambling Shell,Duel Decks: Izzet vs. Golgari
 366243,Syndicate Enforcer,Gatecrash
 366247,Immortal Servitude,Gatecrash
-366250,Primal Visitation,Gatecrash
 366252,Zhur-Taa Swine,Gatecrash
+366259,Ordruun Veteran,Gatecrash
 366261,One Thousand Lashes,Gatecrash
 366262,Prophetic Prism,Gatecrash
 366265,Wojek Halberdiers,Gatecrash
@@ -177,12 +177,13 @@
 366387,Syndic of Tithes,Gatecrash
 366393,Purge the Profane,Gatecrash
 366398,Gruul Ragebeast,Gatecrash
+366399,Fathom Mage,Gatecrash
+366401,Mystic Genesis,Gatecrash
 366403,Cloudfin Raptor,Gatecrash
 366407,Last Thoughts,Gatecrash
 366408,Coerced Confession,Gatecrash
 366409,Scorchwalker,Gatecrash
 366410,Scab-Clan Charger,Gatecrash
-366422,Spark Trooper,Gatecrash
 366423,Hydroform,Gatecrash
 366428,Ground Assault,Gatecrash
 366429,Sunhome Guildmage,Gatecrash
@@ -195,7 +196,6 @@
 366454,Zameck Guildmage,Gatecrash
 366455,Shadow Slice,Gatecrash
 366461,Beckon Apparition,Gatecrash
-366463,Simic Charm,Gatecrash
 366473,Dimir Charm,Gatecrash
 366475,Bane Alley Broker,Gatecrash
 366476,Midnight Recovery,Gatecrash
@@ -262,7 +262,7 @@
 373697,Sentry of the Underworld,Theros
 373702,Shipwreck Singer,Theros
 373704,Magma Jet,Theros
-373738,Horizon Chimera,Theros
+373716,Polis Crusher,Theros
 376256,Azorius Guildgate,Commander 2013 Edition
 376272,Boros Guildgate,Commander 2013 Edition
 376306,Dimir Guildgate,Commander 2013 Edition
