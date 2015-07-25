@@ -30,6 +30,7 @@
 205283,Gold Myr,Planechase
 205285,Iron Myr,Planechase
 205290,Leaden Myr,Planechase
+220031,Frightful Delusion,Innistrad
 220162,Manalith,Magic 2012
 220540,Azorius Signet,Archenemy
 222741,Silver Myr,Duel Decks: Elspeth vs. Tezzeret
@@ -234,6 +235,7 @@
 373697,Sentry of the Underworld,Theros
 373702,Shipwreck Singer,Theros
 373716,Polis Crusher,Theros
+373721,Stymied Hopes,Theros
 373738,Horizon Chimera,Theros
 376256,Azorius Guildgate,Commander 2013 Edition
 376272,Boros Guildgate,Commander 2013 Edition
@@ -266,6 +268,7 @@
 383214,Congregate,Magic 2015 Core Set
 383216,Coral Barrier,Magic 2015 Core Set
 383223,Dauntless River Marshal,Magic 2015 Core Set
+383226,Dissipate,Magic 2015 Core Set
 383227,Divination,Magic 2015 Core Set
 383234,Eternal Thirst,Magic 2015 Core Set
 383254,Generator Servant,Magic 2015 Core Set
@@ -274,7 +277,6 @@
 383277,Inferno Fist,Magic 2015 Core Set
 383278,Into the Void,Magic 2015 Core Set
 383279,Invasive Species,Magic 2015 Core Set
-383288,Jorubai Murk Lurker,Magic 2015 Core Set
 383296,Lava Axe,Magic 2015 Core Set
 383299,Lightning Strike,Magic 2015 Core Set
 383301,Living Totem,Magic 2015 Core Set
@@ -308,7 +310,6 @@
 391851,Harsh Sustenance,Fate Reforged
 391858,Hunt the Weak,Fate Reforged
 391865,Jungle Hollow,Fate Reforged
-391900,Rakshasa's Disdain,Fate Reforged
 391908,Rugged Highlands,Fate Reforged
 391912,Sandblast,Fate Reforged
 391915,Scoured Barrens,Fate Reforged
@@ -327,7 +328,6 @@
 394379,Kinsbaile Skirmisher,Duel Decks: Kiora vs. Elspeth
 394381,Kiora's Follower,Duel Decks: Kiora vs. Elspeth
 394392,Nimbus Swimmer,Duel Decks: Kiora vs. Elspeth
-394493,Anticipate,Dragons of Tarkir
 394523,Contradict,Dragons of Tarkir
 394560,Duress,Dragons of Tarkir
 394623,Mind Rot,Dragons of Tarkir
