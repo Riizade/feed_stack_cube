@@ -1,6 +1,12 @@
 22986,Exclude,Invasion
 29739,Faceless Butcher,Torment
+46015,Myr Enforcer,Mirrodin
 46159,Fill with Fright,Fifth Dawn
+46162,Echoing Truth,Darksteel
+46176,Echoing Decay,Darksteel
+47442,Bonesplitter,Mirrodin
+48048,Darksteel Ingot,Darksteel
+49429,Frogmite,Mirrodin
 50233,Cage of Hands,Champions of Kamigawa
 50510,Sakura-Tribe Elder,Champions of Kamigawa
 74587,Ninja of the Deep Hours,Betrayers of Kamigawa
@@ -9,48 +15,74 @@
 87926,Dimir House Guard,Ravnica: City of Guilds
 87962,Shred Memory,Ravnica: City of Guilds
 87992,Perplex,Ravnica: City of Guilds
+88789,Ideas Unbound,Saviors of Kamigawa
 89075,Seeds of Strength,Ravnica: City of Guilds
+118880,Prismatic Lens,Time Spiral
 122114,Grim Harvest,Coldsnap
 139686,Ingot Chewer,Lorwyn
 145811,Mulldrifter,Lorwyn
 153435,Recumbent Bliss,Eventide
 170977,Plated Geopede,Zendikar
 170991,Kor Cartographer,Zendikar
+174873,Hissing Iguanar,Shards of Alara
 174917,Blightning,Shards of Alara
 174976,Kiss of the Amesha,Shards of Alara
 175100,Blood Cultist,Shards of Alara
+177501,Goblin Bushwhacker,Zendikar
 178121,Crypt Ripper,Zendikar
+180115,Disfigure,Zendikar
 183014,Marrow Chomper,Alara Reborn
 183414,Mold Shambler,Zendikar
+185828,Scattershot Archer,Conflux
 189226,Flamewave Invoker,Duel Decks: Jace vs. Chandra
 189258,Gush,Duel Decks: Jace vs. Chandra
 189621,Grazing Gladehart,Zendikar
 193414,Wildheart Invoker,Rise of the Eldrazi
+193426,Lone Missionary,Rise of the Eldrazi
 193558,Dawnglare Invoker,Rise of the Eldrazi
 193571,Staggershock,Rise of the Eldrazi
 193624,Lavafume Invoker,Rise of the Eldrazi
 193648,Flame Slash,Rise of the Eldrazi
 193982,Searing Blaze,Worldwake
 194105,Grasp of Darkness,Scars of Mirrodin
+194908,Ulamog's Crusher,Rise of the Eldrazi
 194922,Vendetta,Rise of the Eldrazi
 197870,Vastwood Zendikon,Worldwake
 197880,Iona's Judgment,Worldwake
+204998,Liliana's Specter,Magic 2011
+205019,Preordain,Magic 2011
 205391,Rolling Thunder,Planechase
+206342,Whispersilk Cloak,Magic 2011
+206344,Strider Harness,Scars of Mirrodin
+207857,Sylvok Lifestaff,Scars of Mirrodin
+208251,Galvanic Blast,Scars of Mirrodin
 209040,Trinket Mage,Scars of Mirrodin
+210232,Tumble Magnet,Scars of Mirrodin
+213734,Myr Sire,Mirrodin Besieged
+213804,Phyrexian Rager,Mirrodin Besieged
+214376,Geth's Verdict,New Phyrexia
 220031,Frightful Delusion,Innistrad
+220393,Dead Weight,Innistrad
 220475,Fierce Empath,Archenemy
 221216,Bonds of Faith,Innistrad
 221550,Fireball,Magic 2012
 226747,Diregraf Ghoul,Innistrad
+226749,Delver of Secrets,Innistrad
+233070,Mutagenic Growth,New Phyrexia
 234075,Incinerate,Magic 2012
 234431,Furor of the Bitten,Innistrad
 240013,Pillar of Flame,Avacyn Restored
+240017,Abundant Growth,Avacyn Restored
 240078,Seraph of Dawn,Avacyn Restored
 240087,Defang,Avacyn Restored
+240101,Ghostly Flicker,Avacyn Restored
 243428,Steward of Valeron,Duel Decks: Knights vs. Dragons
+244313,Ponder,Magic 2012
+247183,Perilous Research,Magic: The Gathering-Commander
 247187,Repulse,Magic: The Gathering-Commander
 247547,Journey to Nowhere,Magic: The Gathering-Commander
 249684,Searing Spear,Magic 2013
+249706,Mogg Flunkies,Magic 2013
 249840,Arbor Elf,Magic 2013
 253510,Mercurial Chemister,Return to Ravnica
 253545,Electrickery,Return to Ravnica
@@ -67,15 +99,18 @@
 253655,Hypersonic Dragon,Return to Ravnica
 253686,Rancor,Magic 2013
 259677,Murder,Magic 2013
+262835,Undying Evil,Dark Ascension
 265374,Downsize,Return to Ravnica
 265376,Inaction Injunction,Return to Ravnica
 265381,Splatter Thug,Return to Ravnica
 265386,Grim Roustabout,Return to Ravnica
 265391,Lyev Skyknight,Return to Ravnica
 265397,Dynacharge,Return to Ravnica
+266050,Goblin Arsonist,Magic 2013
 270795,Azorius Justiciar,Return to Ravnica
 270796,Gore-House Chainwalker,Return to Ravnica
 270797,Korozda Monitor,Return to Ravnica
+270810,Vulshok Morningstar,Duel Decks: Venser vs. Koth
 270972,Azorius Arrester,Return to Ravnica
 270988,Amass the Components,Avacyn Restored
 271119,Lightning Mauler,Avacyn Restored
@@ -127,6 +162,7 @@
 369075,Rubblebelt Maaka,Dragon's Maze
 369084,Deputy of Acquittals,Dragon's Maze
 369099,Pilfered Plans,Dragon's Maze
+370577,Duress,Magic 2014 Core Set
 370609,Doom Blade,Magic 2014 Core Set
 370610,Goblin Shortcutter,Magic 2014 Core Set
 370631,Shimmering Grotto,Magic 2014 Core Set
@@ -182,6 +218,7 @@
 378519,Fanatic of Xenagos,Born of the Gods
 380220,Golgari Guildgate,Duel Decks: Jace vs. Vraska
 380260,River Boa,Duel Decks: Jace vs. Vraska
+380452,Magma Spray,Journey into Nyx
 382213,Altar's Reap,Magic: The Gathering—Conspiracy
 382236,Compulsive Research,Magic: The Gathering—Conspiracy
 382326,Pitchburn Devils,Magic: The Gathering—Conspiracy
@@ -245,7 +282,6 @@
 391947,Typhoid Rats,Fate Reforged
 391963,Wind-Scarred Crag,Fate Reforged
 393833,Firebolt,"Duel Decks Anthology, Jace vs. Chandra"
-393844,Incinerate,"Duel Decks Anthology, Jace vs. Chandra"
 393853,Magma Jet,"Duel Decks Anthology, Jace vs. Chandra"
 393939,Windstorm,"Duel Decks Anthology, Garruk vs. Liliana"
 393959,Giant Growth,"Duel Decks Anthology, Elves vs. Goblins"
@@ -254,7 +290,7 @@
 394379,Kinsbaile Skirmisher,Duel Decks: Kiora vs. Elspeth
 394381,Kiora's Follower,Duel Decks: Kiora vs. Elspeth
 394523,Contradict,Dragons of Tarkir
-394560,Duress,Dragons of Tarkir
+394620,Magmatic Chasm,Dragons of Tarkir
 394623,Mind Rot,Dragons of Tarkir
 394634,Naturalize,Dragons of Tarkir
 394635,Necromaster Dragon,Dragons of Tarkir
@@ -269,6 +305,7 @@
 397796,Alloy Myr,Modern Masters 2015 Edition
 397874,Fortify,Modern Masters 2015 Edition
 398486,Demolish,Magic Origins
+398496,Magmatic Insight,Magic Origins
 398528,Disperse,Magic Origins
 398548,Evolving Wilds,Magic Origins
 398618,Blightcaster,Magic Origins
