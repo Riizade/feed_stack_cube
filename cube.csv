@@ -17,33 +17,25 @@
 249840,Arbor Elf,Magic 2013
 253510,Mercurial Chemister,Return to Ravnica
 253546,Righteous Authority,Return to Ravnica
-253553,Eyes in the Skies,Return to Ravnica
 253562,Teleportal,Return to Ravnica
-253576,Sewer Shambler,Return to Ravnica
 253586,Slitherhead,Return to Ravnica
 253587,Armada Wurm,Return to Ravnica
-253636,Mizzium Skin,Return to Ravnica
 253640,Dead Reveler,Return to Ravnica
 253654,Centaur Healer,Return to Ravnica
 253655,Hypersonic Dragon,Return to Ravnica
-265374,Downsize,Return to Ravnica
 265376,Inaction Injunction,Return to Ravnica
 265381,Splatter Thug,Return to Ravnica
 265386,Grim Roustabout,Return to Ravnica
 265391,Lyev Skyknight,Return to Ravnica
 265397,Dynacharge,Return to Ravnica
-270795,Azorius Justiciar,Return to Ravnica
 270796,Gore-House Chainwalker,Return to Ravnica
 270797,Korozda Monitor,Return to Ravnica
-270972,Azorius Arrester,Return to Ravnica
 271119,Lightning Mauler,Avacyn Restored
-289215,Druid's Deliverance,Return to Ravnica
 290525,Rakdos Ragemutt,Return to Ravnica
 290527,Essence Backlash,Return to Ravnica
 292750,Force Spike,Duel Decks: Izzet vs. Golgari
 292757,Quicksilver Dagger,Duel Decks: Izzet vs. Golgari
 338412,Dreg Mangler,Duel Decks: Izzet vs. Golgari
-366243,Syndicate Enforcer,Gatecrash
 366261,One Thousand Lashes,Gatecrash
 366272,Warmind Infantry,Gatecrash
 366279,Elusive Krasis,Gatecrash
@@ -51,11 +43,9 @@
 366287,Ghor-Clan Rampager,Gatecrash
 366290,Adaptive Snapjaw,Gatecrash
 366319,Crocanura,Gatecrash
-366321,Basilica Screecher,Gatecrash
 366328,Duskmantle Guildmage,Gatecrash
 366338,Skyknight Legionnaire,Gatecrash
 366344,Armored Transport,Gatecrash
-366347,Basilica Guards,Gatecrash
 366349,Riot Gear,Gatecrash
 366351,Soul Ransom,Gatecrash
 366358,Martial Glory,Gatecrash
@@ -63,7 +53,6 @@
 366361,Kingpin's Pet,Gatecrash
 366370,Bomber Corps,Gatecrash
 366378,Nav Squad Commandos,Gatecrash
-366387,Syndic of Tithes,Gatecrash
 366403,Cloudfin Raptor,Gatecrash
 366407,Last Thoughts,Gatecrash
 366409,Scorchwalker,Gatecrash
@@ -73,7 +62,6 @@
 366455,Shadow Slice,Gatecrash
 366476,Midnight Recovery,Gatecrash
 366478,Shambleshark,Gatecrash
-368965,Lyev Decree,Dragon's Maze
 369016,Ascended Lawmage,Dragon's Maze
 369025,"Ruric Thar, the Unbowed",Dragon's Maze
 369028,Boros Mastiff,Dragon's Maze
@@ -92,18 +80,13 @@
 370705,Nightwing Shade,Magic 2014 Core Set
 370709,Vampire Warlord,Magic 2014 Core Set
 370713,Seismic Stomp,Magic 2014 Core Set
-370726,Devout Invocation,Magic 2014 Core Set
-370738,Advocate of the Beast,Magic 2014 Core Set
 370739,Briarpack Alpha,Magic 2014 Core Set
 370760,Nephalia Seakite,Magic 2014 Core Set
-370762,Merfolk Spy,Magic 2014 Core Set
 370767,Lay of the Land,Magic 2014 Core Set
-370774,Glimpse the Future,Magic 2014 Core Set
 370778,Brindle Boar,Magic 2014 Core Set
 370781,Giant Spider,Magic 2014 Core Set
 370792,Griffin Sentinel,Magic 2014 Core Set
 370799,Vile Rebirth,Magic 2014 Core Set
-370810,Windreader Sphinx,Magic 2014 Core Set
 370815,Warden of Evos Isle,Magic 2014 Core Set
 370824,Flames of the Firebrand,Magic 2014 Core Set
 373339,Zhur-Taa Druid,Duel Decks: Heroes vs. Monsters
@@ -127,22 +110,17 @@
 376561,Transguild Promenade,Commander 2013 Edition
 376577,Vizkopa Guildmage,Commander 2013 Edition
 380220,Golgari Guildgate,Duel Decks: Jace vs. Vraska
-380260,River Boa,Duel Decks: Jace vs. Vraska
 382213,Altar's Reap,Magic: The Gathering—Conspiracy
 382326,Pitchburn Devils,Magic: The Gathering—Conspiracy
 383162,Centaur Courser,Magic 2015 Core Set
 383176,Act on Impulse,Magic 2015 Core Set
 383177,Aeronaut Tinkerer,Magic 2015 Core Set
 383183,Amphin Pathmage,Magic 2015 Core Set
-383191,Black Cat,Magic 2015 Core Set
 383201,Carrion Crow,Magic 2015 Core Set
-383214,Congregate,Magic 2015 Core Set
 383216,Coral Barrier,Magic 2015 Core Set
-383223,Dauntless River Marshal,Magic 2015 Core Set
 383227,Divination,Magic 2015 Core Set
 383234,Eternal Thirst,Magic 2015 Core Set
 383254,Generator Servant,Magic 2015 Core Set
-383265,Heliod's Pilgrim,Magic 2015 Core Set
 383277,Inferno Fist,Magic 2015 Core Set
 383278,Into the Void,Magic 2015 Core Set
 383279,Invasive Species,Magic 2015 Core Set
@@ -150,19 +128,13 @@
 383299,Lightning Strike,Magic 2015 Core Set
 383301,Living Totem,Magic 2015 Core Set
 383303,Marked by Honor,Magic 2015 Core Set
-383309,Midnight Guard,Magic 2015 Core Set
-383320,Necrobite,Magic 2015 Core Set
 383327,Nimbus of the Isles,Magic 2015 Core Set
 383336,Paragon of Eternal Wilds,Magic 2015 Core Set
-383345,Pillar of Light,Magic 2015 Core Set
 383358,Razorfoot Griffin,Magic 2015 Core Set
 383371,Satyr Wayfinder,Magic 2015 Core Set
 383376,Shadowcloak Vampire,Magic 2015 Core Set
-383386,Solemn Offering,Magic 2015 Core Set
-383393,Soulmender,Magic 2015 Core Set
 383407,Sungrace Pegasus,Magic 2015 Core Set
 383423,Undergrowth Scavenger,Magic 2015 Core Set
-383435,Warden of the Beyond,Magic 2015 Core Set
 383443,Zof Shade,Magic 2015 Core Set
 386364,Shambling Remains,Duel Decks: Speed vs. Cunning
 386365,Shock,Duel Decks: Speed vs. Cunning
@@ -175,7 +147,6 @@
 391858,Hunt the Weak,Fate Reforged
 391865,Jungle Hollow,Fate Reforged
 391908,Rugged Highlands,Fate Reforged
-391912,Sandblast,Fate Reforged
 391915,Scoured Barrens,Fate Reforged
 391936,Swiftwater Cliffs,Fate Reforged
 391944,Thornwood Falls,Fate Reforged
@@ -184,13 +155,10 @@
 391963,Wind-Scarred Crag,Fate Reforged
 393833,Firebolt,"Duel Decks Anthology, Jace vs. Chandra"
 393853,Magma Jet,"Duel Decks Anthology, Jace vs. Chandra"
-393939,Windstorm,"Duel Decks Anthology, Garruk vs. Liliana"
 393959,Giant Growth,"Duel Decks Anthology, Elves vs. Goblins"
 393970,Llanowar Elves,"Duel Decks Anthology, Elves vs. Goblins"
 394068,Arc Lightning,Ugin's Fate promos
-394379,Kinsbaile Skirmisher,Duel Decks: Kiora vs. Elspeth
 394381,Kiora's Follower,Duel Decks: Kiora vs. Elspeth
-394523,Contradict,Dragons of Tarkir
 394623,Mind Rot,Dragons of Tarkir
 394634,Naturalize,Dragons of Tarkir
 394635,Necromaster Dragon,Dragons of Tarkir
@@ -204,63 +172,44 @@
 397773,Mana Leak,Modern Masters 2015 Edition
 397796,Alloy Myr,Modern Masters 2015 Edition
 397874,Fortify,Modern Masters 2015 Edition
-398486,Demolish,Magic Origins
 398528,Disperse,Magic Origins
 398548,Evolving Wilds,Magic Origins
-398618,Blightcaster,Magic Origins
 398629,Negate,Magic Origins
 383264,Heat Ray,Magic 2015 Core Set
 368956,Gruul War Chant,Dragon's Maze
 378519,Fanatic of Xenagos,Born of the Gods
 383226,Dissipate,Magic 2015 Core Set
 220031,Frightful Delusion,Innistrad
-373721,Stymied Hopes,Theros
 370694,Essence Scatter,Magic 2014 Core Set
-253573,Arrest,Return to Ravnica
 221216,Bonds of Faith,Innistrad
 83609,Faith's Fetters,Ravnica: City of Guilds
 50233,Cage of Hands,Champions of Kamigawa
-197880,Iona's Judgment,Worldwake
 240078,Seraph of Dawn,Avacyn Restored
-193558,Dawnglare Invoker,Rise of the Eldrazi
 153435,Recumbent Bliss,Eventide
-170991,Kor Cartographer,Zendikar
-389660,Rush of Knowledge,Commander 2014
-382236,Compulsive Research,Magic: The Gathering—Conspiracy
-338457,Rhystic Study,Commander's Arsenal
 145811,Mulldrifter,Lorwyn
 189258,Gush,Duel Decks: Jace vs. Chandra
 270988,Amass the Components,Avacyn Restored
-209040,Trinket Mage,Scars of Mirrodin
 247187,Repulse,Magic: The Gathering-Commander
 22986,Exclude,Invasion
 373658,Mnemonic Wall,Theros
 74587,Ninja of the Deep Hours,Betrayers of Kamigawa
-382389,Twisted Abomination,Magic: The Gathering—Conspiracy
 194105,Grasp of Darkness,Scars of Mirrodin
-29739,Faceless Butcher,Torment
-87962,Shred Memory,Ravnica: City of Guilds
 87926,Dimir House Guard,Ravnica: City of Guilds
 259677,Murder,Magic 2013
 383383,Sign in Blood,Magic 2015 Core Set
 221550,Fireball,Magic 2012
 205391,Rolling Thunder,Planechase
-193982,Searing Blaze,Worldwake
 193571,Staggershock,Rise of the Eldrazi
-189226,Flamewave Invoker,Duel Decks: Jace vs. Chandra
 193624,Lavafume Invoker,Rise of the Eldrazi
 234075,Incinerate,Magic 2012
 193648,Flame Slash,Rise of the Eldrazi
 139686,Ingot Chewer,Lorwyn
 391897,Pyrotechnics,Fate Reforged
 253686,Rancor,Magic 2013
-50510,Sakura-Tribe Elder,Champions of Kamigawa
 376395,Krosan Tusker,Commander 2013 Edition
 271366,Prey Upon,Magic 2013
-220475,Fierce Empath,Archenemy
 376429,Night Soil,Commander 2013 Edition
 189621,Grazing Gladehart,Zendikar
-183414,Mold Shambler,Zendikar
 197870,Vastwood Zendikon,Worldwake
 87992,Perplex,Ravnica: City of Guilds
 174917,Blightning,Shards of Alara
@@ -269,11 +218,7 @@
 253545,Electrickery,Return to Ravnica
 244313,Ponder,Magic 2012
 185828,Scattershot Archer,Conflux
-240101,Ghostly Flicker,Avacyn Restored
-208251,Galvanic Blast,Scars of Mirrodin
-370577,Duress,Magic 2014 Core Set
 46176,Echoing Decay,Darksteel
-240017,Abundant Growth,Avacyn Restored
 47442,Bonesplitter,Mirrodin
 206342,Whispersilk Cloak,Magic 2011
 270810,Vulshok Morningstar,Duel Decks: Venser vs. Koth
@@ -295,30 +240,22 @@
 213734,Myr Sire,Mirrodin Besieged
 207857,Sylvok Lifestaff,Scars of Mirrodin
 88789,Ideas Unbound,Saviors of Kamigawa
-46162,Echoing Truth,Darksteel
 380452,Magma Spray,Journey into Nyx
-394620,Magmatic Chasm,Dragons of Tarkir
 398496,Magmatic Insight,Magic Origins
 49429,Frogmite,Mirrodin
 46015,Myr Enforcer,Mirrodin
 247183,Perilous Research,Magic: The Gathering-Commander
 233070,Mutagenic Growth,New Phyrexia
 213818,Accorder Paladin,Mirrodin Besieged
-207333,Acidic Slime,Magic 2011
 253623,Ash Zealot,Return to Ravnica
 6079,Carnophage,Exodus
-139664,Cloudgoat Ranger,Lorwyn
 383229,Elvish Mystic,Magic 2015 Core Set
-2568,Fyndhorn Elves,Ice Age
 398598,Goblin Glory Chaser,Magic Origins
 391845,Goblin Heelcutter,Fate Reforged
 368477,Hellspark Elemental,Duel Decks: Sorin vs. Tibalt
-125885,Keldon Marauders,Planar Chaos
-178145,Kor Skyfisher,Zendikar
 193426,Lone Missionary,Rise of the Eldrazi
 189240,Man-o'-War,Duel Decks: Jace vs. Chandra
 378452,Pain Seer,Born of the Gods
-170977,Plated Geopede,Zendikar
 218043,Porcelain Legionnaire,New Phyrexia
 222111,Reckless Waif,Innistrad
 204958,Skinrender,Scars of Mirrodin
@@ -327,7 +264,6 @@
 192225,Vampire Lacerator,Zendikar
 185707,Vampire Nighthawk,Zendikar
 253426,Wolfbitten Captive,Dark Ascension
-240082,Zealous Conscripts,Avacyn Restored
 206343,Arc Trail,Scars of Mirrodin
 376303,Deep Analysis,Commander 2013 Edition
 386517,Despise,Khans of Tarkir
@@ -336,13 +272,9 @@
 386705,Treasure Cruise,Khans of Tarkir
 382224,Brainstorm,Magic: The Gathering—Conspiracy
 177558,Burst Lightning,Zendikar
-230082,Dismember,New Phyrexia
 386330,Impulse,Duel Decks: Speed vs. Cunning
-122324,Mana Tithe,Planar Chaos
-198305,Affa Guard Hound,Rise of the Eldrazi
 265723,Attended Knight,Magic 2013
 370624,Banisher Priest,Magic 2014 Core Set
-136279,Benalish Knight,Tenth Edition
 366369,Boros Elite,Gatecrash
 240136,Cathedral Sanctifier,Avacyn Restored
 124080,Dawn Charm,Planar Chaos
@@ -352,16 +284,13 @@
 222007,Fiend Hunter,Innistrad
 194046,Glimmerpoint Stag,Scars of Mirrodin
 373516,Gods Willing,Theros
-394586,Great Teacher's Decree,Dragons of Tarkir
 190166,Harm's Way,Magic 2010
 373729,Heliod's Emissary,Theros
 178131,Kor Hookmaster,Zendikar
 370708,Master of Diversion,Magic 2014 Core Set
 221214,Midnight Haunting,Innistrad
-50256,Otherworldly Journey,Champions of Kamigawa
 383356,Raise the Alarm,Magic 2015 Core Set
 386660,Seeker of the Way,Khans of Tarkir
-197006,Serra Advocate,Duel Decks: Divine vs. Demonic
 193399,Shepherd of the Lost,Zendikar
 109680,Spirit Loop,Time Spiral
 376523,Stonecloaker,Commander 2013 Edition
@@ -371,7 +300,6 @@
 193509,Boar Umbra,Rise of the Eldrazi
 193970,Canopy Cover,Worldwake
 189898,Cudgel Troll,Magic 2010
-370797,Enlarge,Magic 2014 Core Set
 373703,Feral Invocation,Theros
 83672,Fists of Ironwood,Ravnica: City of Guilds
 185694,Greenweaver Druid,Zendikar
@@ -388,7 +316,6 @@
 370807,Messenger Drake,Magic 2014 Core Set
 230616,Murder of Crows,Innistrad
 383354,Quickling,Magic 2015 Core Set
-280222,Rewind,Magic 2013
 254119,Sleep,Magic 2013
 254117,Talrand's Invocation,Magic 2013
 205128,Wall of Frost,Magic 2011
@@ -408,9 +335,9 @@
 402048,Stasis Snare,Battle for Zendikar
 402069,Tandem Tactics,Battle for Zendikar
 401858,Dispel,Battle for Zendikar
-401914,Horribly Awry,Battle for Zendikar
 402088,Vampiric Rites,Battle for Zendikar
 402016,Rot Shambler,Battle for Zendikar
 402009,Retreat to Kazandu,Battle for Zendikar
 401814,Bane of Bala Ged,Battle for Zendikar
 401829,Breaker of Armies,Battle for Zendikar
+382384,Tragic Slip,Magic: The Gathering—Conspiracy
