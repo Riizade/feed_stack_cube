@@ -1,56 +1,34 @@
 46159,Fill with Fright,Fifth Dawn
-83908,Woodwraith Strangler,Ravnica: City of Guilds
-89075,Seeds of Strength,Ravnica: City of Guilds
-174976,Kiss of the Amesha,Shards of Alara
-175100,Blood Cultist,Shards of Alara
 178121,Crypt Ripper,Zendikar
-183014,Marrow Chomper,Alara Reborn
 193414,Wildheart Invoker,Rise of the Eldrazi
 194922,Vendetta,Rise of the Eldrazi
 226747,Diregraf Ghoul,Innistrad
 234431,Furor of the Bitten,Innistrad
 240013,Pillar of Flame,Avacyn Restored
 240087,Defang,Avacyn Restored
-243428,Steward of Valeron,Duel Decks: Knights vs. Dragons
 247547,Journey to Nowhere,Magic: The Gathering-Commander
 249684,Searing Spear,Magic 2013
 249840,Arbor Elf,Magic 2013
-253510,Mercurial Chemister,Return to Ravnica
 253546,Righteous Authority,Return to Ravnica
-253562,Teleportal,Return to Ravnica
-253586,Slitherhead,Return to Ravnica
 253587,Armada Wurm,Return to Ravnica
 253640,Dead Reveler,Return to Ravnica
-253654,Centaur Healer,Return to Ravnica
-253655,Hypersonic Dragon,Return to Ravnica
 265376,Inaction Injunction,Return to Ravnica
 265381,Splatter Thug,Return to Ravnica
 265386,Grim Roustabout,Return to Ravnica
-265391,Lyev Skyknight,Return to Ravnica
 265397,Dynacharge,Return to Ravnica
 270796,Gore-House Chainwalker,Return to Ravnica
 270797,Korozda Monitor,Return to Ravnica
 271119,Lightning Mauler,Avacyn Restored
 290525,Rakdos Ragemutt,Return to Ravnica
-290527,Essence Backlash,Return to Ravnica
 292750,Force Spike,Duel Decks: Izzet vs. Golgari
-292757,Quicksilver Dagger,Duel Decks: Izzet vs. Golgari
 338412,Dreg Mangler,Duel Decks: Izzet vs. Golgari
-366261,One Thousand Lashes,Gatecrash
 366272,Warmind Infantry,Gatecrash
-366279,Elusive Krasis,Gatecrash
 366281,Slaughterhorn,Gatecrash
-366287,Ghor-Clan Rampager,Gatecrash
 366290,Adaptive Snapjaw,Gatecrash
 366319,Crocanura,Gatecrash
-366328,Duskmantle Guildmage,Gatecrash
-366338,Skyknight Legionnaire,Gatecrash
 366344,Armored Transport,Gatecrash
 366349,Riot Gear,Gatecrash
-366351,Soul Ransom,Gatecrash
-366358,Martial Glory,Gatecrash
 366359,Treasury Thrull,Gatecrash
-366361,Kingpin's Pet,Gatecrash
 366370,Bomber Corps,Gatecrash
 366378,Nav Squad Commandos,Gatecrash
 366403,Cloudfin Raptor,Gatecrash
@@ -61,15 +39,11 @@
 366445,Hands of Binding,Gatecrash
 366455,Shadow Slice,Gatecrash
 366476,Midnight Recovery,Gatecrash
-366478,Shambleshark,Gatecrash
 369016,Ascended Lawmage,Dragon's Maze
 369025,"Ruric Thar, the Unbowed",Dragon's Maze
 369028,Boros Mastiff,Dragon's Maze
-369070,Viashino Firstblade,Dragon's Maze
 369074,Unflinching Courage,Dragon's Maze
 369075,Rubblebelt Maaka,Dragon's Maze
-369084,Deputy of Acquittals,Dragon's Maze
-369099,Pilfered Plans,Dragon's Maze
 370609,Doom Blade,Magic 2014 Core Set
 370610,Goblin Shortcutter,Magic 2014 Core Set
 370631,Shimmering Grotto,Magic 2014 Core Set
@@ -89,12 +63,9 @@
 370799,Vile Rebirth,Magic 2014 Core Set
 370815,Warden of Evos Isle,Magic 2014 Core Set
 370824,Flames of the Firebrand,Magic 2014 Core Set
-373339,Zhur-Taa Druid,Duel Decks: Heroes vs. Monsters
-373395,Truefire Paladin,Duel Decks: Heroes vs. Monsters
 373530,Anax and Cymede,Theros
 373570,Reaper of the Wilds,Theros
 373635,Prophet of Kruphix,Theros
-373665,"Tymaret, the Murder King",Theros
 373697,Sentry of the Underworld,Theros
 373738,Horizon Chimera,Theros
 376256,Azorius Guildgate,Commander 2013 Edition
@@ -108,7 +79,6 @@
 376490,Selesnya Guildgate,Commander 2013 Edition
 376500,Simic Guildgate,Commander 2013 Edition
 376561,Transguild Promenade,Commander 2013 Edition
-376577,Vizkopa Guildmage,Commander 2013 Edition
 380220,Golgari Guildgate,Duel Decks: Jace vs. Vraska
 382213,Altar's Reap,Magic: The Gathering—Conspiracy
 382326,Pitchburn Devils,Magic: The Gathering—Conspiracy
@@ -158,7 +128,6 @@
 393959,Giant Growth,"Duel Decks Anthology, Elves vs. Goblins"
 393970,Llanowar Elves,"Duel Decks Anthology, Elves vs. Goblins"
 394068,Arc Lightning,Ugin's Fate promos
-394381,Kiora's Follower,Duel Decks: Kiora vs. Elspeth
 394623,Mind Rot,Dragons of Tarkir
 394634,Naturalize,Dragons of Tarkir
 394635,Necromaster Dragon,Dragons of Tarkir
@@ -176,7 +145,6 @@
 398548,Evolving Wilds,Magic Origins
 398629,Negate,Magic Origins
 383264,Heat Ray,Magic 2015 Core Set
-368956,Gruul War Chant,Dragon's Maze
 378519,Fanatic of Xenagos,Born of the Gods
 383226,Dissipate,Magic 2015 Core Set
 220031,Frightful Delusion,Innistrad
@@ -211,8 +179,6 @@
 376429,Night Soil,Commander 2013 Edition
 189621,Grazing Gladehart,Zendikar
 197870,Vastwood Zendikon,Worldwake
-87992,Perplex,Ravnica: City of Guilds
-174917,Blightning,Shards of Alara
 205019,Preordain,Magic 2011
 226749,Delver of Secrets,Innistrad
 253545,Electrickery,Return to Ravnica
@@ -341,3 +307,40 @@
 401814,Bane of Bala Ged,Battle for Zendikar
 401829,Breaker of Armies,Battle for Zendikar
 382384,Tragic Slip,Magic: The Gathering—Conspiracy
+209714,Chimeric Mass,Scars of Mirrodin
+214040,Bonehoard,Mirrodin Besieged
+249384,Icy Manipulator,Duel Decks: Ajani vs. Nicol Bolas
+183018,Obelisk of Alara,Conflux
+194056,Perilous Myr,Scars of Mirrodin
+198367,Pilgrim's Eye,Worldwake
+48931,Sun Droplet,Mirrodin
+193396,Trusty Machete,Zendikar
+205002,Brittle Effigy,Magic 2011
+191557,Lodestone Golem,Worldwake
+207865,Darksteel Sentinel,Scars of Mirrodin
+213781,Peace Strider,Mirrodin Besieged
+221561,Pierce Strider,Mirrodin Besieged
+253514,Izzet Keyrune,Return to Ravnica
+253519,Azorius Keyrune,Return to Ravnica
+253617,Rakdos Keyrune,Return to Ravnica
+253631,Selesnya Keyrune,Return to Ravnica
+253645,Golgari Keyrune,Return to Ravnica
+366270,Dimir Keyrune,Gatecrash
+366357,Simic Keyrune,Gatecrash
+366413,Boros Keyrune,Gatecrash
+366443,Gruul Keyrune,Gatecrash
+366479,Orzhov Keyrune,Gatecrash
+140217,Brion Stoutarm,Lorwyn
+89073,Grave-Shell Scarab,Ravnica: City of Guilds
+97199,Rumbling Slum,Guildpact
+180611,Spellbound Dragon,Alara Reborn
+292757,Quicksilver Dagger,Duel Decks: Izzet vs. Golgari
+368970,Tithe Drinker,Dragon's Maze
+382245,Dack's Duplicate,Magic: The Gathering—Conspiracy
+382257,"Edric, Spymaster of Trest",Magic: The Gathering—Conspiracy
+397858,Shadowmage Infiltrator,Modern Masters 2015 Edition
+179601,Wall of Denial,Alara Reborn
+89101,"Agrus Kos, Wojek Veteran",Ravnica: City of Guilds
+366469,"Lazav, Dimir Mastermind",Gatecrash
+369055,"Exava, Rakdos Blood Witch",Dragon's Maze
+89110,Tolsimir Wolfblood,Ravnica: City of Guilds
