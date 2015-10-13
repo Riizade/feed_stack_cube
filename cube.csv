@@ -15,7 +15,6 @@
 265376,Inaction Injunction,Return to Ravnica
 265381,Splatter Thug,Return to Ravnica
 265386,Grim Roustabout,Return to Ravnica
-265397,Dynacharge,Return to Ravnica
 270796,Gore-House Chainwalker,Return to Ravnica
 270797,Korozda Monitor,Return to Ravnica
 271119,Lightning Mauler,Avacyn Restored
@@ -83,11 +82,7 @@
 382213,Altar's Reap,Magic: The Gathering—Conspiracy
 382326,Pitchburn Devils,Magic: The Gathering—Conspiracy
 383162,Centaur Courser,Magic 2015 Core Set
-383176,Act on Impulse,Magic 2015 Core Set
-383177,Aeronaut Tinkerer,Magic 2015 Core Set
 383183,Amphin Pathmage,Magic 2015 Core Set
-383201,Carrion Crow,Magic 2015 Core Set
-383216,Coral Barrier,Magic 2015 Core Set
 383227,Divination,Magic 2015 Core Set
 383234,Eternal Thirst,Magic 2015 Core Set
 383254,Generator Servant,Magic 2015 Core Set
@@ -109,7 +104,6 @@
 386364,Shambling Remains,Duel Decks: Speed vs. Cunning
 386365,Shock,Duel Decks: Speed vs. Cunning
 389469,Condemn,Commander 2014
-389651,Reclamation Sage,Commander 2014
 389716,Terramorphic Expanse,Commander 2014
 391802,Bloodfell Caves,Fate Reforged
 391804,Blossoming Sands,Fate Reforged
@@ -123,7 +117,6 @@
 391946,Tranquil Cove,Fate Reforged
 391947,Typhoid Rats,Fate Reforged
 391963,Wind-Scarred Crag,Fate Reforged
-393833,Firebolt,"Duel Decks Anthology, Jace vs. Chandra"
 393853,Magma Jet,"Duel Decks Anthology, Jace vs. Chandra"
 393959,Giant Growth,"Duel Decks Anthology, Elves vs. Goblins"
 393970,Llanowar Elves,"Duel Decks Anthology, Elves vs. Goblins"
@@ -150,7 +143,6 @@
 220031,Frightful Delusion,Innistrad
 370694,Essence Scatter,Magic 2014 Core Set
 221216,Bonds of Faith,Innistrad
-83609,Faith's Fetters,Ravnica: City of Guilds
 50233,Cage of Hands,Champions of Kamigawa
 240078,Seraph of Dawn,Avacyn Restored
 153435,Recumbent Bliss,Eventide
@@ -174,7 +166,6 @@
 139686,Ingot Chewer,Lorwyn
 391897,Pyrotechnics,Fate Reforged
 253686,Rancor,Magic 2013
-376395,Krosan Tusker,Commander 2013 Edition
 271366,Prey Upon,Magic 2013
 376429,Night Soil,Commander 2013 Edition
 189621,Grazing Gladehart,Zendikar
@@ -193,7 +184,6 @@
 48048,Darksteel Ingot,Darksteel
 206344,Strider Harness,Scars of Mirrodin
 213804,Phyrexian Rager,Mirrodin Besieged
-214376,Geth's Verdict,New Phyrexia
 220393,Dead Weight,Innistrad
 180115,Disfigure,Zendikar
 262835,Undying Evil,Dark Ascension
@@ -265,7 +255,6 @@
 193509,Boar Umbra,Rise of the Eldrazi
 193970,Canopy Cover,Worldwake
 189898,Cudgel Troll,Magic 2010
-373703,Feral Invocation,Theros
 83672,Fists of Ironwood,Ravnica: City of Guilds
 185694,Greenweaver Druid,Zendikar
 180408,Harrow,Zendikar
@@ -296,10 +285,7 @@
 401812,Angelic Gift,Battle for Zendikar
 401892,Fortified Rampart,Battle for Zendikar
 401898,Gideon's Reproach,Battle for Zendikar
-402028,Serene Steward,Battle for Zendikar
-402048,Stasis Snare,Battle for Zendikar
 402069,Tandem Tactics,Battle for Zendikar
-401858,Dispel,Battle for Zendikar
 402088,Vampiric Rites,Battle for Zendikar
 402016,Rot Shambler,Battle for Zendikar
 402009,Retreat to Kazandu,Battle for Zendikar
@@ -358,3 +344,17 @@
 220261,Swiftfoot Boots,Magic 2012
 50937,Arcbound Crusher,Darksteel
 118880,Prismatic Lens,Time Spiral
+370825,Shivan Dragon,Magic 2014 Core Set
+240082,Zealous Conscripts,Avacyn Restored
+157411,Thunderblust,Eventide
+370740,Liliana's Reaver,Magic 2014 Core Set
+197125,Butcher of Malakir,Worldwake
+262839,Geralf's Mindcrusher,Dark Ascension
+254108,Sphinx of Uthuun,Magic 2013
+227305,Djinn of Wishes,Magic 2012
+143732,Epic Proportions,Lorwyn
+240179,Soul of the Harvest,Avacyn Restored
+189162,Wolfbriar Elemental,Worldwake
+130345,Angel of Salvation,Future Sight
+262870,Increasing Devotion,Dark Ascension
+259670,"Odric, Master Tactician",Magic 2013
